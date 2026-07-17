@@ -121,6 +121,12 @@ p { color: var(--muted); margin: 18px 0 0; }
   align-items: start;
 }
 .cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+
+/* Větší mezera pod nadpisem „Zkušenosti, samostatnost…“ */
+#cooperation .cards {
+  margin-top: 40px;
+}
+
 .card, .timeline article, .text-block {
   background: var(--surface-strong);
   border: 1px solid var(--line);
