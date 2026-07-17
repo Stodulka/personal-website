@@ -1,0 +1,16 @@
+/* TEAM */
+
+Name: Ing. Libor Stodůlka
+Role: Senior .NET Developer
+Site: https://liborstodulka.cz
+LinkedIn: https://www.linkedin.com/in/libor-stodulka-18780446/
+
+/* SITE */
+
+Technologies:
+C#
+.NET 8
+ASP.NET Core
+SQL Server
+Vue.js
+TypeScript
