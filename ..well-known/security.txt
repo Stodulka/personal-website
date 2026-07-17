@@ -1,0 +1,4 @@
+Contact: mailto:libor.stodulka@gmail.com
+Preferred-Languages: cs,en
+Canonical: https://liborstodulka.cz/.well-known/security.txt
+Expires: 2027-07-17T00:00:00Z
